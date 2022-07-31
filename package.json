@@ -1,0 +1,15 @@
+{
+  "name": "@istanbul/queue",
+  "version": "0.0.1",
+  "description": "Queue Group of Istanbul Framework",
+  "keywords": [
+    "istanbul",
+    "istanbuljs",
+    "rabbitmq",
+    "bull",
+    "bullmq",
+    "queue"
+  ],
+  "author": "Sami Salih İBRAHİMBAŞ",
+  "license": "MIT"
+}
